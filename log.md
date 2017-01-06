@@ -23,3 +23,14 @@
 **Thoughts:** The last challenges "check for palindromes" make me little bit confused to use regex
 
 **Link to work:** https://www.freecodecamp.com/challenges/check-for-palindromes
+
+## Day 4: January 06, 2017 
+
+**Today's Progress**: Finally I could finished All Basic Algorithm Scripting Section on Free Code Camp for Today
+
+**Thoughts:** 
+Really need a lot of time to solve the last four (Falsy Bouncer Complete,Seek and Destroy Complete,Where do I belong Complete, Caesars Cipher Complete)   
+* (Need to know ASCII table http://www.asciitable.com/, and got help from this link http://www.selftaughtjs.com/algorithm-sundays-breaking-a-rot-13-caesar-cipher/
+This is my last holiday, hopefully tommorow i can still spend my time to code effectivelly
+
+**Link to work:** https://www.freecodecamp.com/map
