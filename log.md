@@ -42,4 +42,4 @@ This is my last holiday, hopefully tommorow i can still spend my time to code ef
 **Thoughts:** 
 random quote function done, still struggling with twit button
 
-**Link to work:** https://www.freecodecamp.com/map
+**Link to work:** http://codepen.io/SuhartoWibowo/full/zNGLre/
