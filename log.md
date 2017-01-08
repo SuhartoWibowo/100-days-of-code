@@ -34,3 +34,12 @@ Really need a lot of time to solve the last four (Falsy Bouncer Complete,Seek an
 This is my last holiday, hopefully tommorow i can still spend my time to code effectivelly
 
 **Link to work:** https://www.freecodecamp.com/map
+
+## Day 5: January 08, 2017 
+
+**Today's Progress**:   Finish JSON APIs and AJAX section
+                        Build a random quote machine challenge - on progress  
+**Thoughts:** 
+random quote function done, still struggling with twit button
+
+**Link to work:** https://www.freecodecamp.com/map
