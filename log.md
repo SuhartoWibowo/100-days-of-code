@@ -43,3 +43,10 @@ This is my last holiday, hopefully tommorow i can still spend my time to code ef
 random quote function done, still struggling with twit button
 
 **Link to work:** http://codepen.io/SuhartoWibowo/full/zNGLre/
+
+## Day 6: January 09, 2017 
+
+**Today's Progress**:   Finish a random quote machine challenge  
+**Thoughts:** i think i need to try using .animate  
+
+**Link to work:** http://codepen.io/SuhartoWibowo/full/zNGLre/
